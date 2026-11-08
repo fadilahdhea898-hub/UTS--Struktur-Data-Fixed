@@ -1,0 +1,801 @@
+nomor_perkara,atribut,nilai_atribut,halaman_pdf,extractor,reviewer,status_verifikasi
+101/Pid.Sus/2026/PN Jmr,nomor_perkara,101/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+101/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_01,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+101/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+101/Pid.Sus/2026/PN Jmr,pasal,Pasal 114 ayat (1) UU RI No 35 Tahun 2009,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+101/Pid.Sus/2026/PN Jmr,tuntutan_bulan,84,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+101/Pid.Sus/2026/PN Jmr,vonis_bulan,72,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+101/Pid.Sus/2026/PN Jmr,denda,1000000000,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+101/Pid.Sus/2026/PN Jmr,subsidair_bulan,3,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+101/Pid.Sus/2026/PN Jmr,barang_bukti,1 kantong plastik klip sabu berat bersih 0.42 gram,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+101/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+101/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+101/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+101/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+101/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-01-12,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+101/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+101/Pid.Sus/2026/PN Jmr,catatan,Halaman 15 PDF,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+102/Pid.Sus/2026/PN Jmr,nomor_perkara,102/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+102/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_02,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+102/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+102/Pid.Sus/2026/PN Jmr,pasal,Pasal 112 ayat (1) UU RI No 35 Tahun 2009,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+102/Pid.Sus/2026/PN Jmr,tuntutan_bulan,60,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+102/Pid.Sus/2026/PN Jmr,vonis_bulan,48,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+102/Pid.Sus/2026/PN Jmr,denda,800000000,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+102/Pid.Sus/2026/PN Jmr,subsidair_bulan,2,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+102/Pid.Sus/2026/PN Jmr,barang_bukti,"2 paket sabu total berat 0.85 gram, 1 HP",Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+102/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+102/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+102/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+102/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+102/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-01-14,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+102/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+102/Pid.Sus/2026/PN Jmr,catatan,Halaman 12 PDF,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+103/Pid.Sus/2026/PN Jmr,nomor_perkara,103/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+103/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_03,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+103/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+103/Pid.Sus/2026/PN Jmr,pasal,Pasal 127 ayat (1) huruf a UU RI No 35 Tahun 2009,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+103/Pid.Sus/2026/PN Jmr,tuntutan_bulan,24,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+103/Pid.Sus/2026/PN Jmr,vonis_bulan,18,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+103/Pid.Sus/2026/PN Jmr,denda,0,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+103/Pid.Sus/2026/PN Jmr,subsidair_bulan,0,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+103/Pid.Sus/2026/PN Jmr,barang_bukti,"1 set alat hisap sabu (bong), 1 pipet kaca",Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+103/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+103/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+103/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+103/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+103/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-01-15,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+103/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+103/Pid.Sus/2026/PN Jmr,catatan,Halaman 10 PDF,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+104/Pid.Sus/2026/PN Jmr,nomor_perkara,104/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+104/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_04,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+104/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+104/Pid.Sus/2026/PN Jmr,pasal,Pasal 114 ayat (1) UU RI No 35 Tahun 2009,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+104/Pid.Sus/2026/PN Jmr,tuntutan_bulan,72,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+104/Pid.Sus/2026/PN Jmr,vonis_bulan,60,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+104/Pid.Sus/2026/PN Jmr,denda,1000000000,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+104/Pid.Sus/2026/PN Jmr,subsidair_bulan,3,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+104/Pid.Sus/2026/PN Jmr,barang_bukti,"3 plastik klip isi sabu 1.12 gram, timbangan digital",Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+104/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+104/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+104/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+104/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+104/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-01-18,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+104/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+104/Pid.Sus/2026/PN Jmr,catatan,Halaman 14 PDF,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+105/Pid.Sus/2026/PN Jmr,nomor_perkara,105/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+105/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_05,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+105/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+105/Pid.Sus/2026/PN Jmr,pasal,Pasal 112 ayat (1) UU RI No 35 Tahun 2009,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+105/Pid.Sus/2026/PN Jmr,tuntutan_bulan,54,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+105/Pid.Sus/2026/PN Jmr,vonis_bulan,42,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+105/Pid.Sus/2026/PN Jmr,denda,800000000,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+105/Pid.Sus/2026/PN Jmr,subsidair_bulan,2,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+105/Pid.Sus/2026/PN Jmr,barang_bukti,1 klip sabu 0.30 gram,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+105/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+105/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+105/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+105/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+105/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-01-20,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+105/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+105/Pid.Sus/2026/PN Jmr,catatan,Halaman 11 PDF,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+106/Pid.Sus/2026/PN Jmr,nomor_perkara,106/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+106/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_06,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+106/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+106/Pid.Sus/2026/PN Jmr,pasal,Pasal 114 ayat (2) UU RI No 35 Tahun 2009,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+106/Pid.Sus/2026/PN Jmr,tuntutan_bulan,108,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+106/Pid.Sus/2026/PN Jmr,vonis_bulan,96,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+106/Pid.Sus/2026/PN Jmr,denda,1500000000,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+106/Pid.Sus/2026/PN Jmr,subsidair_bulan,6,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+106/Pid.Sus/2026/PN Jmr,barang_bukti,10 paket sabu berat 6.50 gram,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+106/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+106/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+106/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+106/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+106/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-01-22,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+106/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+106/Pid.Sus/2026/PN Jmr,catatan,Halaman 18 PDF,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+107/Pid.Sus/2026/PN Jmr,nomor_perkara,107/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+107/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_07,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+107/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+107/Pid.Sus/2026/PN Jmr,pasal,Pasal 112 ayat (1) UU RI No 35 Tahun 2009,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+107/Pid.Sus/2026/PN Jmr,tuntutan_bulan,48,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+107/Pid.Sus/2026/PN Jmr,vonis_bulan,36,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+107/Pid.Sus/2026/PN Jmr,denda,800000000,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+107/Pid.Sus/2026/PN Jmr,subsidair_bulan,2,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+107/Pid.Sus/2026/PN Jmr,barang_bukti,"1 klip sabu 0.25 gram, 1 korek api",Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+107/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+107/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+107/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+107/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+107/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-01-25,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+107/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+107/Pid.Sus/2026/PN Jmr,catatan,Halaman 13 PDF,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+108/Pid.Sus/2026/PN Jmr,nomor_perkara,108/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+108/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_08,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+108/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 9,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+108/Pid.Sus/2026/PN Jmr,pasal,Pasal 127 ayat (1) huruf a UU RI No 35 Tahun 2009,Hal. 9,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+108/Pid.Sus/2026/PN Jmr,tuntutan_bulan,18,Hal. 9,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+108/Pid.Sus/2026/PN Jmr,vonis_bulan,12,Hal. 9,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+108/Pid.Sus/2026/PN Jmr,denda,0,Hal. 9,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+108/Pid.Sus/2026/PN Jmr,subsidair_bulan,0,Hal. 9,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+108/Pid.Sus/2026/PN Jmr,barang_bukti,1 pipet kaca sisa sabu,Hal. 9,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+108/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 9,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+108/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 9,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+108/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 9,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+108/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 9,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+108/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-01-28,Hal. 9,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+108/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 9,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+108/Pid.Sus/2026/PN Jmr,catatan,Halaman 9 PDF,Hal. 9,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+109/Pid.Sus/2026/PN Jmr,nomor_perkara,109/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+109/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_09,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+109/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+109/Pid.Sus/2026/PN Jmr,pasal,Pasal 114 ayat (1) UU RI No 35 Tahun 2009,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+109/Pid.Sus/2026/PN Jmr,tuntutan_bulan,84,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+109/Pid.Sus/2026/PN Jmr,vonis_bulan,72,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+109/Pid.Sus/2026/PN Jmr,denda,1000000000,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+109/Pid.Sus/2026/PN Jmr,subsidair_bulan,3,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+109/Pid.Sus/2026/PN Jmr,barang_bukti,4 klip sabu total 2.10 gram,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+109/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+109/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+109/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+109/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+109/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-02-01,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+109/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+109/Pid.Sus/2026/PN Jmr,catatan,Halaman 16 PDF,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+110/Pid.Sus/2026/PN Jmr,nomor_perkara,110/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+110/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_10,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+110/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+110/Pid.Sus/2026/PN Jmr,pasal,Pasal 112 ayat (2) UU RI No 35 Tahun 2009,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+110/Pid.Sus/2026/PN Jmr,tuntutan_bulan,96,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+110/Pid.Sus/2026/PN Jmr,vonis_bulan,84,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+110/Pid.Sus/2026/PN Jmr,denda,1000000000,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+110/Pid.Sus/2026/PN Jmr,subsidair_bulan,4,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+110/Pid.Sus/2026/PN Jmr,barang_bukti,5 paket sabu berat 5.20 gram,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+110/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+110/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+110/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+110/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+110/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-02-03,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+110/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+110/Pid.Sus/2026/PN Jmr,catatan,Halaman 17 PDF,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+111/Pid.Sus/2026/PN Jmr,nomor_perkara,111/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+111/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_11,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+111/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+111/Pid.Sus/2026/PN Jmr,pasal,Pasal 112 ayat (1) UU RI No 35 Tahun 2009,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+111/Pid.Sus/2026/PN Jmr,tuntutan_bulan,66,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+111/Pid.Sus/2026/PN Jmr,vonis_bulan,54,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+111/Pid.Sus/2026/PN Jmr,denda,1000000000,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+111/Pid.Sus/2026/PN Jmr,subsidair_bulan,3,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+111/Pid.Sus/2026/PN Jmr,barang_bukti,3 paket sabu berat 0.40 gram,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+111/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+111/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+111/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+111/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+111/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-02-12,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+111/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+111/Pid.Sus/2026/PN Jmr,catatan,Halaman 11 PDF,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+112/Pid.Sus/2026/PN Jmr,nomor_perkara,112/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+112/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_12,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+112/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+112/Pid.Sus/2026/PN Jmr,pasal,Pasal 114 ayat (1) UU RI No 35 Tahun 2009,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+112/Pid.Sus/2026/PN Jmr,tuntutan_bulan,72,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+112/Pid.Sus/2026/PN Jmr,vonis_bulan,60,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+112/Pid.Sus/2026/PN Jmr,denda,800000000,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+112/Pid.Sus/2026/PN Jmr,subsidair_bulan,2,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+112/Pid.Sus/2026/PN Jmr,barang_bukti,1 paket sabu berat 0.50 gram,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+112/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+112/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+112/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+112/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+112/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-02-13,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+112/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+112/Pid.Sus/2026/PN Jmr,catatan,Halaman 12 PDF,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+113/Pid.Sus/2026/PN Jmr,nomor_perkara,113/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+113/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_13,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+113/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+113/Pid.Sus/2026/PN Jmr,pasal,Pasal 112 ayat (1) UU RI No 35 Tahun 2009,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+113/Pid.Sus/2026/PN Jmr,tuntutan_bulan,78,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+113/Pid.Sus/2026/PN Jmr,vonis_bulan,66,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+113/Pid.Sus/2026/PN Jmr,denda,900000000,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+113/Pid.Sus/2026/PN Jmr,subsidair_bulan,3,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+113/Pid.Sus/2026/PN Jmr,barang_bukti,2 paket sabu berat 0.60 gram,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+113/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+113/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+113/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+113/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+113/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-02-14,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+113/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+113/Pid.Sus/2026/PN Jmr,catatan,Halaman 13 PDF,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+114/Pid.Sus/2026/PN Jmr,nomor_perkara,114/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+114/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_14,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+114/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+114/Pid.Sus/2026/PN Jmr,pasal,Pasal 114 ayat (1) UU RI No 35 Tahun 2009,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+114/Pid.Sus/2026/PN Jmr,tuntutan_bulan,84,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+114/Pid.Sus/2026/PN Jmr,vonis_bulan,72,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+114/Pid.Sus/2026/PN Jmr,denda,1000000000,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+114/Pid.Sus/2026/PN Jmr,subsidair_bulan,2,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+114/Pid.Sus/2026/PN Jmr,barang_bukti,3 paket sabu berat 0.70 gram,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+114/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+114/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+114/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+114/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+114/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-02-15,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+114/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+114/Pid.Sus/2026/PN Jmr,catatan,Halaman 14 PDF,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+115/Pid.Sus/2026/PN Jmr,nomor_perkara,115/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+115/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_15,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+115/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+115/Pid.Sus/2026/PN Jmr,pasal,Pasal 112 ayat (1) UU RI No 35 Tahun 2009,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+115/Pid.Sus/2026/PN Jmr,tuntutan_bulan,60,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+115/Pid.Sus/2026/PN Jmr,vonis_bulan,48,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+115/Pid.Sus/2026/PN Jmr,denda,800000000,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+115/Pid.Sus/2026/PN Jmr,subsidair_bulan,3,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+115/Pid.Sus/2026/PN Jmr,barang_bukti,1 paket sabu berat 0.30 gram,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+115/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+115/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+115/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+115/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+115/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-02-16,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+115/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+115/Pid.Sus/2026/PN Jmr,catatan,Halaman 15 PDF,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+116/Pid.Sus/2026/PN Jmr,nomor_perkara,116/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+116/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_16,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+116/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+116/Pid.Sus/2026/PN Jmr,pasal,Pasal 114 ayat (1) UU RI No 35 Tahun 2009,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+116/Pid.Sus/2026/PN Jmr,tuntutan_bulan,66,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+116/Pid.Sus/2026/PN Jmr,vonis_bulan,54,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+116/Pid.Sus/2026/PN Jmr,denda,900000000,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+116/Pid.Sus/2026/PN Jmr,subsidair_bulan,2,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+116/Pid.Sus/2026/PN Jmr,barang_bukti,2 paket sabu berat 0.40 gram,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+116/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+116/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+116/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+116/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+116/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-02-17,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+116/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+116/Pid.Sus/2026/PN Jmr,catatan,Halaman 16 PDF,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+117/Pid.Sus/2026/PN Jmr,nomor_perkara,117/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+117/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_17,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+117/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+117/Pid.Sus/2026/PN Jmr,pasal,Pasal 112 ayat (1) UU RI No 35 Tahun 2009,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+117/Pid.Sus/2026/PN Jmr,tuntutan_bulan,72,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+117/Pid.Sus/2026/PN Jmr,vonis_bulan,60,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+117/Pid.Sus/2026/PN Jmr,denda,1000000000,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+117/Pid.Sus/2026/PN Jmr,subsidair_bulan,3,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+117/Pid.Sus/2026/PN Jmr,barang_bukti,3 paket sabu berat 0.50 gram,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+117/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+117/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+117/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+117/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+117/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-02-18,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+117/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+117/Pid.Sus/2026/PN Jmr,catatan,Halaman 17 PDF,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+118/Pid.Sus/2026/PN Jmr,nomor_perkara,118/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+118/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_18,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+118/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+118/Pid.Sus/2026/PN Jmr,pasal,Pasal 114 ayat (1) UU RI No 35 Tahun 2009,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+118/Pid.Sus/2026/PN Jmr,tuntutan_bulan,78,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+118/Pid.Sus/2026/PN Jmr,vonis_bulan,66,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+118/Pid.Sus/2026/PN Jmr,denda,800000000,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+118/Pid.Sus/2026/PN Jmr,subsidair_bulan,2,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+118/Pid.Sus/2026/PN Jmr,barang_bukti,1 paket sabu berat 0.60 gram,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+118/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+118/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+118/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+118/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+118/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-02-19,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+118/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+118/Pid.Sus/2026/PN Jmr,catatan,Halaman 18 PDF,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+119/Pid.Sus/2026/PN Jmr,nomor_perkara,119/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+119/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_19,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+119/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 19,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+119/Pid.Sus/2026/PN Jmr,pasal,Pasal 112 ayat (1) UU RI No 35 Tahun 2009,Hal. 19,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+119/Pid.Sus/2026/PN Jmr,tuntutan_bulan,84,Hal. 19,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+119/Pid.Sus/2026/PN Jmr,vonis_bulan,72,Hal. 19,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+119/Pid.Sus/2026/PN Jmr,denda,900000000,Hal. 19,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+119/Pid.Sus/2026/PN Jmr,subsidair_bulan,3,Hal. 19,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+119/Pid.Sus/2026/PN Jmr,barang_bukti,2 paket sabu berat 0.70 gram,Hal. 19,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+119/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 19,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+119/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 19,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+119/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 19,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+119/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 19,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+119/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-02-20,Hal. 19,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+119/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 19,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+119/Pid.Sus/2026/PN Jmr,catatan,Halaman 19 PDF,Hal. 19,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+120/Pid.Sus/2026/PN Jmr,nomor_perkara,120/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+120/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_20,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+120/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+120/Pid.Sus/2026/PN Jmr,pasal,Pasal 114 ayat (1) UU RI No 35 Tahun 2009,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+120/Pid.Sus/2026/PN Jmr,tuntutan_bulan,60,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+120/Pid.Sus/2026/PN Jmr,vonis_bulan,48,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+120/Pid.Sus/2026/PN Jmr,denda,1000000000,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+120/Pid.Sus/2026/PN Jmr,subsidair_bulan,2,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+120/Pid.Sus/2026/PN Jmr,barang_bukti,3 paket sabu berat 0.30 gram,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+120/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+120/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+120/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+120/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+120/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-02-01,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+120/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+120/Pid.Sus/2026/PN Jmr,catatan,Halaman 10 PDF,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+121/Pid.Sus/2026/PN Jmr,nomor_perkara,121/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+121/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_21,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+121/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+121/Pid.Sus/2026/PN Jmr,pasal,Pasal 112 ayat (1) UU RI No 35 Tahun 2009,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+121/Pid.Sus/2026/PN Jmr,tuntutan_bulan,66,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+121/Pid.Sus/2026/PN Jmr,vonis_bulan,54,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+121/Pid.Sus/2026/PN Jmr,denda,800000000,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+121/Pid.Sus/2026/PN Jmr,subsidair_bulan,3,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+121/Pid.Sus/2026/PN Jmr,barang_bukti,1 paket sabu berat 0.40 gram,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+121/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+121/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+121/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+121/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+121/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-02-02,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+121/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+121/Pid.Sus/2026/PN Jmr,catatan,Halaman 11 PDF,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+122/Pid.Sus/2026/PN Jmr,nomor_perkara,122/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+122/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_22,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+122/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+122/Pid.Sus/2026/PN Jmr,pasal,Pasal 114 ayat (1) UU RI No 35 Tahun 2009,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+122/Pid.Sus/2026/PN Jmr,tuntutan_bulan,72,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+122/Pid.Sus/2026/PN Jmr,vonis_bulan,60,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+122/Pid.Sus/2026/PN Jmr,denda,900000000,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+122/Pid.Sus/2026/PN Jmr,subsidair_bulan,2,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+122/Pid.Sus/2026/PN Jmr,barang_bukti,2 paket sabu berat 0.50 gram,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+122/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+122/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+122/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+122/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+122/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-02-03,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+122/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+122/Pid.Sus/2026/PN Jmr,catatan,Halaman 12 PDF,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+123/Pid.Sus/2026/PN Jmr,nomor_perkara,123/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+123/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_23,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+123/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+123/Pid.Sus/2026/PN Jmr,pasal,Pasal 112 ayat (1) UU RI No 35 Tahun 2009,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+123/Pid.Sus/2026/PN Jmr,tuntutan_bulan,78,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+123/Pid.Sus/2026/PN Jmr,vonis_bulan,66,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+123/Pid.Sus/2026/PN Jmr,denda,1000000000,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+123/Pid.Sus/2026/PN Jmr,subsidair_bulan,3,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+123/Pid.Sus/2026/PN Jmr,barang_bukti,3 paket sabu berat 0.60 gram,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+123/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+123/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+123/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+123/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+123/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-02-04,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+123/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+123/Pid.Sus/2026/PN Jmr,catatan,Halaman 13 PDF,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+124/Pid.Sus/2026/PN Jmr,nomor_perkara,124/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+124/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_24,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+124/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+124/Pid.Sus/2026/PN Jmr,pasal,Pasal 114 ayat (1) UU RI No 35 Tahun 2009,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+124/Pid.Sus/2026/PN Jmr,tuntutan_bulan,84,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+124/Pid.Sus/2026/PN Jmr,vonis_bulan,72,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+124/Pid.Sus/2026/PN Jmr,denda,800000000,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+124/Pid.Sus/2026/PN Jmr,subsidair_bulan,2,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+124/Pid.Sus/2026/PN Jmr,barang_bukti,1 paket sabu berat 0.70 gram,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+124/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+124/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+124/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+124/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+124/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-02-05,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+124/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+124/Pid.Sus/2026/PN Jmr,catatan,Halaman 14 PDF,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+125/Pid.Sus/2026/PN Jmr,nomor_perkara,125/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+125/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_25,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+125/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+125/Pid.Sus/2026/PN Jmr,pasal,Pasal 112 ayat (1) UU RI No 35 Tahun 2009,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+125/Pid.Sus/2026/PN Jmr,tuntutan_bulan,60,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+125/Pid.Sus/2026/PN Jmr,vonis_bulan,48,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+125/Pid.Sus/2026/PN Jmr,denda,900000000,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+125/Pid.Sus/2026/PN Jmr,subsidair_bulan,3,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+125/Pid.Sus/2026/PN Jmr,barang_bukti,2 paket sabu berat 0.30 gram,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+125/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+125/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+125/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+125/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+125/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-02-06,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+125/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+125/Pid.Sus/2026/PN Jmr,catatan,Halaman 15 PDF,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+126/Pid.Sus/2026/PN Jmr,nomor_perkara,126/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+126/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_26,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+126/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+126/Pid.Sus/2026/PN Jmr,pasal,Pasal 114 ayat (1) UU RI No 35 Tahun 2009,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+126/Pid.Sus/2026/PN Jmr,tuntutan_bulan,66,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+126/Pid.Sus/2026/PN Jmr,vonis_bulan,54,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+126/Pid.Sus/2026/PN Jmr,denda,1000000000,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+126/Pid.Sus/2026/PN Jmr,subsidair_bulan,2,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+126/Pid.Sus/2026/PN Jmr,barang_bukti,3 paket sabu berat 0.40 gram,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+126/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+126/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+126/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+126/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+126/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-02-07,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+126/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+126/Pid.Sus/2026/PN Jmr,catatan,Halaman 16 PDF,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+127/Pid.Sus/2026/PN Jmr,nomor_perkara,127/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+127/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_27,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+127/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+127/Pid.Sus/2026/PN Jmr,pasal,Pasal 112 ayat (1) UU RI No 35 Tahun 2009,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+127/Pid.Sus/2026/PN Jmr,tuntutan_bulan,72,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+127/Pid.Sus/2026/PN Jmr,vonis_bulan,60,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+127/Pid.Sus/2026/PN Jmr,denda,800000000,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+127/Pid.Sus/2026/PN Jmr,subsidair_bulan,3,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+127/Pid.Sus/2026/PN Jmr,barang_bukti,1 paket sabu berat 0.50 gram,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+127/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+127/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+127/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+127/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+127/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-02-08,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+127/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+127/Pid.Sus/2026/PN Jmr,catatan,Halaman 17 PDF,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+128/Pid.Sus/2026/PN Jmr,nomor_perkara,128/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+128/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_28,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+128/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+128/Pid.Sus/2026/PN Jmr,pasal,Pasal 114 ayat (1) UU RI No 35 Tahun 2009,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+128/Pid.Sus/2026/PN Jmr,tuntutan_bulan,78,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+128/Pid.Sus/2026/PN Jmr,vonis_bulan,66,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+128/Pid.Sus/2026/PN Jmr,denda,900000000,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+128/Pid.Sus/2026/PN Jmr,subsidair_bulan,2,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+128/Pid.Sus/2026/PN Jmr,barang_bukti,2 paket sabu berat 0.60 gram,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+128/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+128/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+128/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+128/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+128/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-02-09,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+128/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+128/Pid.Sus/2026/PN Jmr,catatan,Halaman 18 PDF,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+129/Pid.Sus/2026/PN Jmr,nomor_perkara,129/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+129/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_29,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+129/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 19,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+129/Pid.Sus/2026/PN Jmr,pasal,Pasal 112 ayat (1) UU RI No 35 Tahun 2009,Hal. 19,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+129/Pid.Sus/2026/PN Jmr,tuntutan_bulan,84,Hal. 19,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+129/Pid.Sus/2026/PN Jmr,vonis_bulan,72,Hal. 19,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+129/Pid.Sus/2026/PN Jmr,denda,1000000000,Hal. 19,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+129/Pid.Sus/2026/PN Jmr,subsidair_bulan,3,Hal. 19,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+129/Pid.Sus/2026/PN Jmr,barang_bukti,3 paket sabu berat 0.70 gram,Hal. 19,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+129/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 19,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+129/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 19,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+129/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 19,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+129/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 19,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+129/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-02-10,Hal. 19,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+129/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 19,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+129/Pid.Sus/2026/PN Jmr,catatan,Halaman 19 PDF,Hal. 19,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+130/Pid.Sus/2026/PN Jmr,nomor_perkara,130/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+130/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_30,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+130/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+130/Pid.Sus/2026/PN Jmr,pasal,Pasal 114 ayat (1) UU RI No 35 Tahun 2009,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+130/Pid.Sus/2026/PN Jmr,tuntutan_bulan,60,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+130/Pid.Sus/2026/PN Jmr,vonis_bulan,48,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+130/Pid.Sus/2026/PN Jmr,denda,800000000,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+130/Pid.Sus/2026/PN Jmr,subsidair_bulan,2,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+130/Pid.Sus/2026/PN Jmr,barang_bukti,1 paket sabu berat 0.30 gram,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+130/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+130/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+130/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+130/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+130/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-02-11,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+130/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+130/Pid.Sus/2026/PN Jmr,catatan,Halaman 10 PDF,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+131/Pid.Sus/2026/PN Jmr,nomor_perkara,131/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+131/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_31,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+131/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+131/Pid.Sus/2026/PN Jmr,pasal,Pasal 112 ayat (1) UU RI No 35 Tahun 2009,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+131/Pid.Sus/2026/PN Jmr,tuntutan_bulan,66,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+131/Pid.Sus/2026/PN Jmr,vonis_bulan,54,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+131/Pid.Sus/2026/PN Jmr,denda,900000000,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+131/Pid.Sus/2026/PN Jmr,subsidair_bulan,3,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+131/Pid.Sus/2026/PN Jmr,barang_bukti,2 paket sabu berat 0.40 gram,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+131/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+131/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+131/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+131/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+131/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-02-12,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+131/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+131/Pid.Sus/2026/PN Jmr,catatan,Halaman 11 PDF,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+132/Pid.Sus/2026/PN Jmr,nomor_perkara,132/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+132/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_32,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+132/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+132/Pid.Sus/2026/PN Jmr,pasal,Pasal 114 ayat (1) UU RI No 35 Tahun 2009,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+132/Pid.Sus/2026/PN Jmr,tuntutan_bulan,72,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+132/Pid.Sus/2026/PN Jmr,vonis_bulan,60,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+132/Pid.Sus/2026/PN Jmr,denda,1000000000,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+132/Pid.Sus/2026/PN Jmr,subsidair_bulan,2,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+132/Pid.Sus/2026/PN Jmr,barang_bukti,3 paket sabu berat 0.50 gram,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+132/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+132/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+132/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+132/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+132/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-02-13,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+132/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+132/Pid.Sus/2026/PN Jmr,catatan,Halaman 12 PDF,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+133/Pid.Sus/2026/PN Jmr,nomor_perkara,133/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+133/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_33,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+133/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+133/Pid.Sus/2026/PN Jmr,pasal,Pasal 112 ayat (1) UU RI No 35 Tahun 2009,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+133/Pid.Sus/2026/PN Jmr,tuntutan_bulan,78,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+133/Pid.Sus/2026/PN Jmr,vonis_bulan,66,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+133/Pid.Sus/2026/PN Jmr,denda,800000000,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+133/Pid.Sus/2026/PN Jmr,subsidair_bulan,3,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+133/Pid.Sus/2026/PN Jmr,barang_bukti,1 paket sabu berat 0.60 gram,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+133/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+133/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+133/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+133/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+133/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-02-14,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+133/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+133/Pid.Sus/2026/PN Jmr,catatan,Halaman 13 PDF,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+134/Pid.Sus/2026/PN Jmr,nomor_perkara,134/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+134/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_34,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+134/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+134/Pid.Sus/2026/PN Jmr,pasal,Pasal 114 ayat (1) UU RI No 35 Tahun 2009,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+134/Pid.Sus/2026/PN Jmr,tuntutan_bulan,84,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+134/Pid.Sus/2026/PN Jmr,vonis_bulan,72,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+134/Pid.Sus/2026/PN Jmr,denda,900000000,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+134/Pid.Sus/2026/PN Jmr,subsidair_bulan,2,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+134/Pid.Sus/2026/PN Jmr,barang_bukti,2 paket sabu berat 0.70 gram,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+134/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+134/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+134/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+134/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+134/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-02-15,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+134/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+134/Pid.Sus/2026/PN Jmr,catatan,Halaman 14 PDF,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+135/Pid.Sus/2026/PN Jmr,nomor_perkara,135/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+135/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_35,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+135/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+135/Pid.Sus/2026/PN Jmr,pasal,Pasal 112 ayat (1) UU RI No 35 Tahun 2009,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+135/Pid.Sus/2026/PN Jmr,tuntutan_bulan,60,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+135/Pid.Sus/2026/PN Jmr,vonis_bulan,48,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+135/Pid.Sus/2026/PN Jmr,denda,1000000000,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+135/Pid.Sus/2026/PN Jmr,subsidair_bulan,3,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+135/Pid.Sus/2026/PN Jmr,barang_bukti,3 paket sabu berat 0.30 gram,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+135/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+135/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+135/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+135/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+135/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-02-16,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+135/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+135/Pid.Sus/2026/PN Jmr,catatan,Halaman 15 PDF,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+136/Pid.Sus/2026/PN Jmr,nomor_perkara,136/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+136/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_36,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+136/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+136/Pid.Sus/2026/PN Jmr,pasal,Pasal 114 ayat (1) UU RI No 35 Tahun 2009,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+136/Pid.Sus/2026/PN Jmr,tuntutan_bulan,66,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+136/Pid.Sus/2026/PN Jmr,vonis_bulan,54,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+136/Pid.Sus/2026/PN Jmr,denda,800000000,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+136/Pid.Sus/2026/PN Jmr,subsidair_bulan,2,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+136/Pid.Sus/2026/PN Jmr,barang_bukti,1 paket sabu berat 0.40 gram,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+136/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+136/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+136/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+136/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+136/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-02-17,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+136/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+136/Pid.Sus/2026/PN Jmr,catatan,Halaman 16 PDF,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+137/Pid.Sus/2026/PN Jmr,nomor_perkara,137/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+137/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_37,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+137/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+137/Pid.Sus/2026/PN Jmr,pasal,Pasal 112 ayat (1) UU RI No 35 Tahun 2009,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+137/Pid.Sus/2026/PN Jmr,tuntutan_bulan,72,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+137/Pid.Sus/2026/PN Jmr,vonis_bulan,60,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+137/Pid.Sus/2026/PN Jmr,denda,900000000,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+137/Pid.Sus/2026/PN Jmr,subsidair_bulan,3,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+137/Pid.Sus/2026/PN Jmr,barang_bukti,2 paket sabu berat 0.50 gram,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+137/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+137/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+137/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+137/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+137/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-02-18,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+137/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+137/Pid.Sus/2026/PN Jmr,catatan,Halaman 17 PDF,Hal. 17,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+138/Pid.Sus/2026/PN Jmr,nomor_perkara,138/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+138/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_38,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+138/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+138/Pid.Sus/2026/PN Jmr,pasal,Pasal 114 ayat (1) UU RI No 35 Tahun 2009,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+138/Pid.Sus/2026/PN Jmr,tuntutan_bulan,78,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+138/Pid.Sus/2026/PN Jmr,vonis_bulan,66,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+138/Pid.Sus/2026/PN Jmr,denda,1000000000,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+138/Pid.Sus/2026/PN Jmr,subsidair_bulan,2,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+138/Pid.Sus/2026/PN Jmr,barang_bukti,3 paket sabu berat 0.60 gram,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+138/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+138/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+138/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+138/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+138/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-02-19,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+138/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+138/Pid.Sus/2026/PN Jmr,catatan,Halaman 18 PDF,Hal. 18,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+139/Pid.Sus/2026/PN Jmr,nomor_perkara,139/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+139/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_39,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+139/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 19,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+139/Pid.Sus/2026/PN Jmr,pasal,Pasal 112 ayat (1) UU RI No 35 Tahun 2009,Hal. 19,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+139/Pid.Sus/2026/PN Jmr,tuntutan_bulan,84,Hal. 19,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+139/Pid.Sus/2026/PN Jmr,vonis_bulan,72,Hal. 19,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+139/Pid.Sus/2026/PN Jmr,denda,800000000,Hal. 19,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+139/Pid.Sus/2026/PN Jmr,subsidair_bulan,3,Hal. 19,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+139/Pid.Sus/2026/PN Jmr,barang_bukti,1 paket sabu berat 0.70 gram,Hal. 19,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+139/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 19,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+139/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 19,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+139/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 19,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+139/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 19,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+139/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-02-20,Hal. 19,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+139/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 19,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+139/Pid.Sus/2026/PN Jmr,catatan,Halaman 19 PDF,Hal. 19,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+140/Pid.Sus/2026/PN Jmr,nomor_perkara,140/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+140/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_40,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+140/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+140/Pid.Sus/2026/PN Jmr,pasal,Pasal 114 ayat (1) UU RI No 35 Tahun 2009,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+140/Pid.Sus/2026/PN Jmr,tuntutan_bulan,60,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+140/Pid.Sus/2026/PN Jmr,vonis_bulan,48,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+140/Pid.Sus/2026/PN Jmr,denda,900000000,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+140/Pid.Sus/2026/PN Jmr,subsidair_bulan,2,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+140/Pid.Sus/2026/PN Jmr,barang_bukti,2 paket sabu berat 0.30 gram,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+140/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+140/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+140/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+140/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+140/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-02-01,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+140/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+140/Pid.Sus/2026/PN Jmr,catatan,Halaman 10 PDF,Hal. 10,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+141/Pid.Sus/2026/PN Jmr,nomor_perkara,141/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+141/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_41,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+141/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+141/Pid.Sus/2026/PN Jmr,pasal,Pasal 112 ayat (1) UU RI No 35 Tahun 2009,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+141/Pid.Sus/2026/PN Jmr,tuntutan_bulan,66,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+141/Pid.Sus/2026/PN Jmr,vonis_bulan,54,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+141/Pid.Sus/2026/PN Jmr,denda,1000000000,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+141/Pid.Sus/2026/PN Jmr,subsidair_bulan,3,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+141/Pid.Sus/2026/PN Jmr,barang_bukti,3 paket sabu berat 0.40 gram,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+141/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+141/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+141/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+141/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+141/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-02-02,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+141/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+141/Pid.Sus/2026/PN Jmr,catatan,Halaman 11 PDF,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+142/Pid.Sus/2026/PN Jmr,nomor_perkara,142/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+142/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_42,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+142/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+142/Pid.Sus/2026/PN Jmr,pasal,Pasal 114 ayat (1) UU RI No 35 Tahun 2009,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+142/Pid.Sus/2026/PN Jmr,tuntutan_bulan,72,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+142/Pid.Sus/2026/PN Jmr,vonis_bulan,60,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+142/Pid.Sus/2026/PN Jmr,denda,800000000,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+142/Pid.Sus/2026/PN Jmr,subsidair_bulan,2,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+142/Pid.Sus/2026/PN Jmr,barang_bukti,1 paket sabu berat 0.50 gram,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+142/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+142/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+142/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+142/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+142/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-02-03,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+142/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+142/Pid.Sus/2026/PN Jmr,catatan,Halaman 12 PDF,Hal. 12,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+143/Pid.Sus/2026/PN Jmr,nomor_perkara,143/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+143/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_43,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+143/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+143/Pid.Sus/2026/PN Jmr,pasal,Pasal 112 ayat (1) UU RI No 35 Tahun 2009,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+143/Pid.Sus/2026/PN Jmr,tuntutan_bulan,78,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+143/Pid.Sus/2026/PN Jmr,vonis_bulan,66,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+143/Pid.Sus/2026/PN Jmr,denda,900000000,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+143/Pid.Sus/2026/PN Jmr,subsidair_bulan,3,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+143/Pid.Sus/2026/PN Jmr,barang_bukti,2 paket sabu berat 0.60 gram,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+143/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+143/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+143/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+143/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+143/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-02-04,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+143/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+143/Pid.Sus/2026/PN Jmr,catatan,Halaman 13 PDF,Hal. 13,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+144/Pid.Sus/2026/PN Jmr,nomor_perkara,144/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+144/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_44,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+144/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+144/Pid.Sus/2026/PN Jmr,pasal,Pasal 114 ayat (1) UU RI No 35 Tahun 2009,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+144/Pid.Sus/2026/PN Jmr,tuntutan_bulan,84,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+144/Pid.Sus/2026/PN Jmr,vonis_bulan,72,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+144/Pid.Sus/2026/PN Jmr,denda,1000000000,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+144/Pid.Sus/2026/PN Jmr,subsidair_bulan,2,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+144/Pid.Sus/2026/PN Jmr,barang_bukti,3 paket sabu berat 0.70 gram,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+144/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+144/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+144/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+144/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+144/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-02-05,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+144/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+144/Pid.Sus/2026/PN Jmr,catatan,Halaman 14 PDF,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+145/Pid.Sus/2026/PN Jmr,nomor_perkara,145/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+145/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_45,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+145/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+145/Pid.Sus/2026/PN Jmr,pasal,Pasal 112 ayat (1) UU RI No 35 Tahun 2009,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+145/Pid.Sus/2026/PN Jmr,tuntutan_bulan,60,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+145/Pid.Sus/2026/PN Jmr,vonis_bulan,48,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+145/Pid.Sus/2026/PN Jmr,denda,800000000,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+145/Pid.Sus/2026/PN Jmr,subsidair_bulan,3,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+145/Pid.Sus/2026/PN Jmr,barang_bukti,1 paket sabu berat 0.30 gram,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+145/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+145/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+145/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+145/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+145/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-02-06,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+145/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+145/Pid.Sus/2026/PN Jmr,catatan,Halaman 15 PDF,Hal. 15,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+146/Pid.Sus/2026/PN Jmr,nomor_perkara,146/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+146/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_46,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+146/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+146/Pid.Sus/2026/PN Jmr,pasal,Pasal 114 ayat (1) UU RI No 35 Tahun 2009,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+146/Pid.Sus/2026/PN Jmr,tuntutan_bulan,66,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+146/Pid.Sus/2026/PN Jmr,vonis_bulan,54,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+146/Pid.Sus/2026/PN Jmr,denda,900000000,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+146/Pid.Sus/2026/PN Jmr,subsidair_bulan,2,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+146/Pid.Sus/2026/PN Jmr,barang_bukti,2 paket sabu berat 0.40 gram,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+146/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+146/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+146/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+146/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+146/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-02-07,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+146/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+146/Pid.Sus/2026/PN Jmr,catatan,Halaman 16 PDF,Hal. 16,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+501/Pid.Sus/2026/PN Jmr,nomor_perkara,501/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+501/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_47,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+501/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+501/Pid.Sus/2026/PN Jmr,pasal,Pasal 114 ayat (1) UU RI No 35 Tahun 2009,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+501/Pid.Sus/2026/PN Jmr,tuntutan_bulan,72,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+501/Pid.Sus/2026/PN Jmr,vonis_bulan,60,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+501/Pid.Sus/2026/PN Jmr,denda,1000000000,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+501/Pid.Sus/2026/PN Jmr,subsidair_bulan,3,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+501/Pid.Sus/2026/PN Jmr,barang_bukti,1 kantong plastik klip sabu berat 0.55 gram,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+501/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+501/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+501/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+501/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+501/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-02-21,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+501/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+501/Pid.Sus/2026/PN Jmr,catatan,Halaman 14 PDF,Hal. 14,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+502/Pid.Sus/2026/PN Jmr,nomor_perkara,502/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+502/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_48,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+502/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+502/Pid.Sus/2026/PN Jmr,pasal,Pasal 112 ayat (1) UU RI No 35 Tahun 2009,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+502/Pid.Sus/2026/PN Jmr,tuntutan_bulan,54,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+502/Pid.Sus/2026/PN Jmr,vonis_bulan,42,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+502/Pid.Sus/2026/PN Jmr,denda,800000000,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+502/Pid.Sus/2026/PN Jmr,subsidair_bulan,2,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+502/Pid.Sus/2026/PN Jmr,barang_bukti,2 paket sabu total 0.40 gram,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+502/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+502/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+502/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+502/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+502/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-02-22,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+502/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+502/Pid.Sus/2026/PN Jmr,catatan,Halaman 11 PDF,Hal. 11,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+503/Pid.Sus/2026/PN Jmr,nomor_perkara,503/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+503/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_49,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+503/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 9,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+503/Pid.Sus/2026/PN Jmr,pasal,Pasal 127 ayat (1) huruf a UU RI No 35 Tahun 2009,Hal. 9,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+503/Pid.Sus/2026/PN Jmr,tuntutan_bulan,24,Hal. 9,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+503/Pid.Sus/2026/PN Jmr,vonis_bulan,14,Hal. 9,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+503/Pid.Sus/2026/PN Jmr,denda,0,Hal. 9,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+503/Pid.Sus/2026/PN Jmr,subsidair_bulan,0,Hal. 9,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+503/Pid.Sus/2026/PN Jmr,barang_bukti,1 bong dan 1 pipet kaca sisa sabu,Hal. 9,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+503/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 9,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+503/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 9,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+503/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 9,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+503/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 9,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+503/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-02-24,Hal. 9,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+503/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 9,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+503/Pid.Sus/2026/PN Jmr,catatan,Halaman 9 PDF,Hal. 9,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+504/Pid.Sus/2026/PN Jmr,nomor_perkara,504/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+504/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_50,Hal. 1,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+504/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 20,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+504/Pid.Sus/2026/PN Jmr,pasal,Pasal 114 ayat (2) UU RI No 35 Tahun 2009,Hal. 20,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+504/Pid.Sus/2026/PN Jmr,tuntutan_bulan,120,Hal. 20,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+504/Pid.Sus/2026/PN Jmr,vonis_bulan,108,Hal. 20,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+504/Pid.Sus/2026/PN Jmr,denda,1500000000,Hal. 20,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+504/Pid.Sus/2026/PN Jmr,subsidair_bulan,6,Hal. 20,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+504/Pid.Sus/2026/PN Jmr,barang_bukti,12 paket sabu berat 8.10 gram,Hal. 20,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+504/Pid.Sus/2026/PN Jmr,status_penahanan,Ditahan di Rutan,Hal. 20,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+504/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 20,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+504/Pid.Sus/2026/PN Jmr,nama_hakim,Hakim Ketua PN Jember,Hal. 20,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+504/Pid.Sus/2026/PN Jmr,nama_jaksa,Jaksa Penuntut Umum Kejari Jember,Hal. 20,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+504/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-02-25,Hal. 20,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+504/Pid.Sus/2026/PN Jmr,status_eksekusi,Inkracht,Hal. 20,Kelompok_UTS,Reviewer_Aslab,VERIFIED
+504/Pid.Sus/2026/PN Jmr,catatan,Halaman 20 PDF,Hal. 20,Kelompok_UTS,Reviewer_Aslab,VERIFIED
