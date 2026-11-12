@@ -1,0 +1,15 @@
+# ADR-001: Pemilihan Struktur Data Utama dan Sekunder
+
+## Status
+Accepted
+
+## Konteks
+Aplikasi CLI ini membutuhkan struktur data yang mampu menampung ratusan data putusan pengadilan (`Pid.Sus` PN Jember) secara dinamis (mendukung penambahan dan penghapusan data saat runtime), serta membutuhkan mekanisme pencatatan riwayat aktivitas sistem (*Audit System*) yang menampilkan aktivitas terbaru terlebih dahulu.
+
+## Keputusan
+1. **Struktur Data Utama (Dynamic List / Linked List):** Menggunakan struktur data dinamis berbasis list untuk menyimpan kumpulan objek `Putusan` sehingga mendukung operasi *traversal*, *insertion* (Menu 6), dan *deletion* (Menu 7) tanpa batas ukuran statis.
+2. **Struktur Data Sekunder (Stack LIFO):** Menggunakan struktur data **Stack (*Last-In, First-Out*)** untuk fitur *Lihat Riwayat Audit System* (Menu 8) agar setiap log operasi (tambah, hapus, ekspor) yang paling baru dieksekusi langsung berada di puncak tumpukan (*top of stack*).
+
+## Konsekuensi
+* **Positif:** Operasi pencatatan log audit (`push`) dan pembacaan aktivitas terakhir (`peek`/`pop`) berjalan sangat cepat dengan kompleksitas waktu $O(1)$. Pengelolaan memori untuk daftar putusan bersifat fleksibel.
+* **Negatif:** Pencarian elemen berdasarkan indeks atau nomor perkara pada struktur list linear memerlukan penelusuran elemen dari awal (*traversal*).
