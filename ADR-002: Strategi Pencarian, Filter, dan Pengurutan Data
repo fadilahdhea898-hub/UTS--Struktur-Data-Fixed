@@ -1,0 +1,15 @@
+# ADR-002: Strategi Pencarian, Filter, dan Pengurutan Data
+
+## Status
+Accepted
+
+## Konteks
+Pengguna membutuhkan fitur untuk mencari putusan spesifik berdasarkan Nomor Perkara (Menu 2), menyaring putusan berdasarkan minimal durasi vonis (Menu 3), serta mengurutkan seluruh putusan berdasarkan lama vonis (Menu 4).
+
+## Keputusan
+1. **Strategi Pencarian & Filter (Linear Search / Traversal):** Menggunakan penelusuran sekuensial ($O(n)$) dengan pencocokan string (*case-insensitive* / *substring matching*) untuk Nomor Perkara dan perbandingan numerik untuk filter minimal vonis, karena dataset utama bersifat dinamis dan tidak selalu dalam kondisi terurut berdasarkan nomor perkara.
+2. **Strategi Pengurutan (Comparison-Based Sorting):** Mengimplementasikan algoritma pengurutan berbasis perbandingan (seperti Merge Sort / Quick Sort dengan kompleksitas rata-rata $O(n \log n)$) pada salinan koleksi data saat pengguna memilih fitur urutkan berdasarkan vonis, sehingga urutan asli dataset tetap terjaga.
+
+## Konsekuensi
+* **Positif:** Pencarian tetap akurat meskipun data baru saja ditambahkan atau dihapus tanpa perlu melakukan *re-indexing* terlebih dahulu. Pengurutan berjalan efisien untuk ratusan hingga ribuan rekaman putusan.
+* **Negatif:** Pencarian linear memiliki kompleksitas waktu terburuk $O(n)$, namun sangat memadai dan instan untuk skala dataset putusan PN Jember saat ini.
