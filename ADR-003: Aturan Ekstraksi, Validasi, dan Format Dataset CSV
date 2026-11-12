@@ -1,0 +1,18 @@
+# ADR-003: Aturan Ekstraksi, Validasi, dan Format Dataset CSV
+
+## Status
+Accepted
+
+## Konteks
+Dataset bersumber dari data aktual direktori putusan Pengadilan Negeri Jember (perkara Pidana Khusus dengan format nomor registrasi standar seperti `130/Pid.Sus/2026/PN Jmr`). Data mentah hasil ekstraksi perlu dibersihkan dan distandarisasi agar dapat diproses tanpa error oleh parser Java CLI.
+
+## Keputusan
+1. **Format Penyimpanan:** Menggunakan format **CSV (*Comma-Separated Values*)** dengan encoding UTF-8 sebagai sumber data input utama dan target ekspor data final (Menu 9).
+2. **Aturan Sanitasi & Parsing:**
+   * Setiap baris harus memiliki struktur kolom yang konsisten (Nomor Perkara, Identitas/Klasifikasi, Durasi Vonis dalam satuan numerik terstandar).
+   * Tanda baca pemisah di dalam teks (seperti koma pada deskripsi) ditangani dengan *delimiter* atau *escaping* yang aman agar tidak merusak pemetaan kolom saat dibaca oleh aplikasi.
+   * Nilai vonis dikonversi ke tipe data numerik agar dapat dihitung pada fitur Statistik Agregasi Data (Menu 5: rata-rata, nilai minimum, dan nilai maksimum).
+
+## Konsekuensi
+* **Positif:** File CSV ringan, mudah dibaca oleh Java I/O, serta dapat langsung dibuka menggunakan Microsoft Excel atau Google Sheets setelah diekspor.
+* **Negatif:** Memerlukan validasi input yang ketat saat pengguna menambahkan data baru secara manual melalui CLI agar format CSV tetap konsisten saat diekspor kembali.
