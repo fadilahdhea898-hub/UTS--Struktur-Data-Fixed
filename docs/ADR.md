@@ -1,6 +1,6 @@
 # Architectural Decision Record (ADR)
 
-## ADR-001: Pemilihan Singly Linked List sebagai Struktur Data Utama
+## ADR-001-Pemilihan-Struktur-Data-Utama-dan-Sekunder.md
 - **Status**: Accepted
 - **Konteks**: Aplikasi memerlukan struktur data dinamis untuk menampung data putusan pengadilan yang dapat ditambah dan dihapus secara responsif tanpa batas alokasi array tetap.
 - **Keputusan**: Mengimplementasikan `SinglyLinkedList` generik murni buatan sendiri.
