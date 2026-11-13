@@ -1,3 +1,4 @@
+// Implementasi struktur data sekunder Stack (LIFO) untuk sistem audit
 package com.uts.strukturdata;
 
 public class Stack<T> {
