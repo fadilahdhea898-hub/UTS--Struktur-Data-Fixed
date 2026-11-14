@@ -33,6 +33,7 @@ public class PutusanService {
         return removed;
     }
 
+    // Pencarian sekuensial berdasarkan kata kunci nomor perkara (case-insensitive)
     public Putusan cariByNomorPerkara(String nomorPerkara) {
         Node<Putusan> curr = listPutusan.getHead();
         while (curr != null) {
