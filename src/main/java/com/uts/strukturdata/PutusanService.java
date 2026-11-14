@@ -58,7 +58,7 @@ public class PutusanService {
         auditManager.log("FILTER_VONIS", "Filter vonis >= " + minVonisBulan + " bulan (Hasil: " + result.getSize() + " data)");
         return result;
     }
-
+    // Pengurutan daftar putusan berdasarkan durasi vonis (ASC/DESC)
     public void urutkanByVonis(boolean ascending) {
         Comparator<Putusan> comp = Comparator.comparingInt(Putusan::getVonisBulan);
         if (!ascending) comp = comp.reversed();
