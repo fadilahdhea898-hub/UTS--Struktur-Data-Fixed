@@ -45,7 +45,7 @@ public class PutusanService {
         auditManager.log("CARI_PERKARA", "Mencari perkara: " + nomorPerkara + " (Tidak Ditemukan)");
         return null;
     }
-
+    // Penyaringan data putusan berdasarkan ambang batas minimal vonis
     public SinglyLinkedList<Putusan> filterByVonisMin(int minVonisBulan) {
         SinglyLinkedList<Putusan> result = new SinglyLinkedList<>();
         Node<Putusan> curr = listPutusan.getHead();
