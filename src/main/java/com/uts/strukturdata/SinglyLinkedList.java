@@ -1,7 +1,7 @@
 package com.uts.strukturdata;
 
 import java.util.Comparator;
-
+// Struktur data utama dinamis berbasis Singly Linked List
 public class SinglyLinkedList<T> {
     private Node<T> head;
     private Node<T> tail;
