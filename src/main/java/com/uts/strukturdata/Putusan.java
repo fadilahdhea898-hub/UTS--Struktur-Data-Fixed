@@ -1,5 +1,5 @@
 package com.uts.strukturdata;
-
+// Entitas model data putusan pengadilan PN Jember
 public class Putusan {
     private String nomorPerkara;
     private String namaTerdakwa;
