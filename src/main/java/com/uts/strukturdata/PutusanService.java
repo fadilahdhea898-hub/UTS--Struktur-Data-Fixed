@@ -67,6 +67,7 @@ public class PutusanService {
         auditManager.log("PENGURUTAN", "Mengurutkan data berdasarkan Vonis (" + (ascending ? "ASC" : "DESC") + ")");
     }
 
+    // Perhitungan statistik agregasi durasi vonis (jumlah, rata-rata, min, max)
     public void cetakStatistik() {
         if (listPutusan.isEmpty()) {
             System.out.println("Data kosong.");
