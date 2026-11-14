@@ -45,27 +45,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
-      </set>
-    </attachedChunks>
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="11e9d793-7032-41c9-8543-1a4eea52a790" name="Changes" comment="" />
-      <created>1794474791693</created>
+      <created>1776000000000</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1794474791693</updated>
-      <workItem from="1794474795510" duration="2122000" />
-      <workItem from="1794560855934" duration="2011000" />
+      <updated>1776000000000</updated>
     </task>
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
   </component>
 </project>
