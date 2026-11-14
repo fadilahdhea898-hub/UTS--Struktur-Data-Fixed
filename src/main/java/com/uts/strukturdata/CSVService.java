@@ -6,6 +6,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
 
+// Layanan pembacaan dan penulisan dataset putusan format CSV (UTF-8)
 public class CSVService {
 
     public static SinglyLinkedList<Putusan> loadPutusanFromCSV(String filePath) {
