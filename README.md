@@ -51,3 +51,4 @@ UTS-Struktur-Data/
 2. Pengujian fungsi Stack Audit Log LIFO.
 3. Pengujian Invariant & Penghapusan Elemen.
 4. Pengujian Agregasi & Pengurutan Merge Sort pada Linked List.
+- Status akhir kolaborasi: Seluruh fitur, audit log, dan pengujian telah terintegrasi penuh.
